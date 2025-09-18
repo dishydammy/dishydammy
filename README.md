@@ -3,7 +3,7 @@
 [![Follow on Twitter](https://img.shields.io/twitter/follow/damola_adams?style=social)](https://https://x.com/dishydammie)
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://https://www.linkedin.com/in/adedamola-adams-496264280)
 
-- 🌱 I’m currently on a journey to become an ML/AI Engineer.
+- 🌱 ML/AI Engineer.
 - 🤝 I’m open to collaborating on interesting projects and ideas.
 - 🧠 I enjoy solving real-world problems with Machine Learning and AI.
 - 📫 You can also reach me via mail at damola810@yahoo.com
